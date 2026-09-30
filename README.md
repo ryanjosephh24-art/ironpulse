@@ -49,7 +49,7 @@ IronPulse is a high-performance, mobile-first companion web application engineer
 
 ```bash
 # Clone the repository
-git clone [https://github.com/ryanjosephh24-art/ironpulse.git](https://github.com/ryanjosephh24-art/ironpulse.git)
+git clone https://github.com/ryanjosephh24-art/ironpulse.git
 
 # Navigate to project directory
 cd ironpulse
@@ -60,7 +60,6 @@ pnpm install
 # Start development server
 pnpm dev
 
----
 
 ## Author & Engineering Profile
 
